@@ -2,7 +2,7 @@
 
 ## When
 
-Wednesday 30 July
+Wednesday 30 July (exact time TBA)
 
 ## Where
 
@@ -14,6 +14,8 @@ Sanderstrasse 28
 [map](https://www.google.com/maps/place/Sanderstra%C3%9Fe+28/@52.49252,13.42388,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84fb5f8582b01:0xb2381828bd8f3a12)
 
 Nearest U-bahn station is Schönleinstraße (U-8)
+
+Full == full. We have about 100 seats. For safety reasons we can't allow more people in. Your best bet is to come on time.
 
 ## Code of Concduct
 
