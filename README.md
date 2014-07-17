@@ -23,7 +23,7 @@ We adopt the [Ruby Berlin Code of Conduct](http://rubyberlin.github.io/code-of-c
 
 ## What is it
 
-Since Eurucamp had to reject over 100 proposals, the idea rose to do a "reject-conf". Although it's really just an excuse to get together, hack and share ideas some time during the Eurucamp week.
+Since eurucamp had to reject over 100 proposals, the idea rose to do a "reject-conf". Although it's really just an excuse to get together, hack and share ideas some time during the eurucamp week.
 
 As opposed to a "real" conference, Euruject is meant to be loosely organized, grassroots, bottom up, for us by us. Everyone is welcome to join the dialogue!
 
