@@ -2,7 +2,7 @@
 
 ## When
 
-Wednesday 30 July (exact time TBA).
+Thursday 31 July, 10:00 to 20:00
 
 ## Where
 
