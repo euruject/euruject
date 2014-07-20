@@ -28,3 +28,11 @@ Since eurucamp had to reject over 100 proposals, the idea rose to do a "reject-c
 As opposed to a "real" conference, Euruject is meant to be loosely organized, grassroots, bottom up, for us by us. Everyone is welcome to join the dialogue!
 
 Have a look at the issue tracker for ongoing discussions.
+
+## What to bring with you
+
+A computer, although it's not mandatory.
+
+If you can, please bring a power/plug strip with you. Just remember to sign it (or mark it in another way), so that it won't get lost during the day. Every power strip counts!
+
+Food is very much welcome! If you want to bring stuff to share, think about considering people with dietary restrictions.
