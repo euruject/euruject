@@ -21,6 +21,27 @@ Full == full. We have about 100 seats. For safety reasons we can't allow more pe
 
 We adopt the [Ruby Berlin Code of Conduct](http://rubyberlin.github.io/code-of-conduct/). By attending you agree to comply to this code, please read it carefully before attending the event.
 
+## Contact
+
+Organizers will be recognizable as such ("ORGA" badge). If you encounter, or witness, harassment, please report this to a member of staff.
+
+* marta@paciorkowska.pl ; 015258650900
+* arne.brasseur@gmail.com ; 0176974680141
+
+## Reporting Harassment
+
+When reporting the event to staff, try to gather as much information as available, but do not interview people about the incident - Staff will assist you in writing the report/collecting information.
+
+The important information consists of:
+
+  * Identifying information (name/badge number) of the participant doing the harassing
+  * The behavior that was in violation
+  * The approximate time of the behavior (if different than the time the report was made)
+  * The circumstances surrounding the incident
+  * Other people involved in the incident
+
+If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement. If you do not have a cell phone, you can ask a staff member.
+
 ## What is it
 
 Since eurucamp had to reject over 100 proposals, the idea rose to do a "reject-conf". Although it's really just an excuse to get together, hack and share ideas some time during the eurucamp week.
